@@ -17,7 +17,7 @@ Create an APP that stores user data
 
 ![](https://www.sqlite.org/images/sqlite370_banner.gif)
 
-![](https://www.python.org/static/img/python-logo.png)
+![](https://www.python.org/static/img/python-logo.png) **version 3.7.7**
 
 ![](https://assets.ubuntu.com/v1/8114528b-picto-ubuntu-orange.png)
 
