@@ -65,3 +65,5 @@ Chooose your option and Voila you are done
 **check if your entry got included on your database** 
 
 ![](https://github.com/MiteshChakma/Assessment/blob/master/s1.1.png)
+
+**Note: same process goes for detele user or update user**
